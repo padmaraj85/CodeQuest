@@ -1,0 +1,21 @@
+{	
+	"allPlans":[
+				{"name":"Plan1",
+				 "features":[{"name":"voice"},{"name":"email"}],
+				 "cost":"20"
+				},
+				{"name":"Plan2",
+				 "features":[{"name":"email"},{"name":"database"},{"name":"admin"}],
+				 "cost":"150"
+				},
+				{"name":"Plan3",
+				 "features":[{"name":"voice"},{"name":"email"}],
+				 "cost":"125"
+				},
+				{"name":"Plan4",
+				 "features":[{"name":"database"},{"name":"admin"}],
+				 "cost":"135"
+				}
+			],
+	"selectedFeatures":[{"name":"voice"}, {"name":"database"}]
+}
